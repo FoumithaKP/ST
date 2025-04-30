@@ -1,0 +1,27 @@
+
+'WMIC' is not recognized as an internal or external command,
+operable program or batch file.
+'WMIC' is not recognized as an internal or external command,
+operable program or batch file.
+Tue Apr 29 2025 15:12:43:205 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Tue Apr 29 2025 15:12:44:110 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 8984
+Tue Apr 29 2025 15:12:45:748 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Tue Apr 29 2025 15:12:46:922 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Tue Apr 29 2025 15:16:04:739 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 8984
+Tue Apr 29 2025 15:16:04:739 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Tue Apr 29 2025 15:16:04:739 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Tue Apr 29 2025 15:16:04:741 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+
+Tue Apr 29 2025 15:18:24:772 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 8984
+Tue Apr 29 2025 15:18:24:772 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Tue Apr 29 2025 15:18:24:772 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Tue Apr 29 2025 15:18:24:772 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+
+Tue Apr 29 2025 15:20:38:827 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 8984
+Tue Apr 29 2025 15:20:38:828 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Tue Apr 29 2025 15:20:38:828 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Tue Apr 29 2025 15:20:38:828 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
